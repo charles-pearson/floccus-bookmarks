@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :35: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Financial</title>
+  <bookmark href="https://www.ally.com/" id="6">
+    <title>https://www.ally.com</title>
+  </bookmark>
+  <bookmark href="https://n13.ultipro.com/Login.aspx?ReturnUrl=%2f" id="7">
+    <title>UKG Login</title>
+  </bookmark>
+  <bookmark href="https://smsc.ultipro.com/" id="8">
+    <title>UKG Login</title>
+  </bookmark>
+  <bookmark href="https://www.affinityplus.org/" id="9">
+    <title>Affinity Plus Federal Credit Union</title>
+  </bookmark>
+  <bookmark href="https://participant.empower-retirement.com/participant/home/#/dashboard/retirement-income" id="10">
+    <title>Empower Retirement</title>
+  </bookmark>
+  <bookmark href="https://my.healthequity.com/" id="11">
+    <title>HealthEquity - HSA</title>
+  </bookmark>
+  <bookmark href="https://app.monarchmoney.com/dashboard" id="12">
+    <title>MonarchMoney</title>
+  </bookmark>
+  <bookmark href="https://digital.fidelity.com/ftgw/digital/trader-dashboard" id="13">
+    <title>Fidelity Trading Dashboard</title>
+  </bookmark>
+  <bookmark href="https://www.fidelity.com/" id="14">
+    <title>Fidelity Investments </title>
+  </bookmark>
+  <bookmark href="https://login.acg.aaa.com/login.do" id="15">
+    <title>AAA Insurance</title>
+  </bookmark>
+</folder>
+<bookmark href="http://192.168.1.1/ui" id="2">
+  <title>Linksys Smart Wi-Fi</title>
+</bookmark>
+<bookmark href="https://192.168.1.118/rui/index.html" id="3">
+  <title>CanonPrinter</title>
+</bookmark>
+<bookmark href="https://learn.microsoft.com/en-us/users/charlespearson-5822/" id="4">
+  <title>Microsoft Learn</title>
+</bookmark>
+<folder id="5">
+  <title>Azure</title>
+  <bookmark href="https://learn.microsoft.com/en-us/powershell/azure/?view=azps-10.4.1&amp;viewFallbackFrom=azps-6.5.0" id="16">
+    <title>Azure PowerShell Documentation | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://portal.azure.com/" id="17">
+    <title>Microsoft Azure Portal</title>
+  </bookmark>
+  <bookmark href="https://learn.microsoft.com/en-us/cli/azure/" id="18">
+    <title>Azure Command-Line Interface (CLI) - Overview | Microsoft Learn</title>
+  </bookmark>
+  <bookmark href="https://azure.github.io/Azure-Verified-Modules/indexes/bicep/" id="19">
+    <title>Bicep Modules | AVM</title>
+  </bookmark>
+</folder>
+<folder id="20">
+  <title>HomeSchool</title>
+  <bookmark href="https://www.academicexcellence.com/complete-paper-california-achievement-test/" id="23">
+    <title>Paper California Achievement Test</title>
+  </bookmark>
+  <bookmark href="https://www.academicexcellence.com/achievement-tests/?sort=featured&amp;page=1" id="24">
+    <title>Achievement Tests - Page 1 - Academic Excellence</title>
+  </bookmark>
+  <bookmark href="https://www.aquinastwincities.com/" id="25">
+    <title>Aquinas Twin Cities</title>
+  </bookmark>
+</folder>
+<folder id="21">
+  <title>Dance</title>
+  <bookmark href="https://www.youtube.com/watch?v=4veppv9jBXc" id="26">
+    <title>East Coast Swing Basic Steps - A Beginners Guide to East Coast Swing! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=0NTa1CXQS6w" id="27">
+    <title>Easy Swing Dance Steps for Beginners - The Jitterbug - YouTube</title>
+  </bookmark>
+</folder>
+<folder id="22">
+  <title>Adoration</title>
+  <bookmark href="https://sjb.weadorehim.com/en/dashboard/193" id="28">
+    <title>St. John the Baptist Adoration, Savage, MN</title>
+  </bookmark>
+  <bookmark href="https://ssjacs.weadorehim.com/en/dashboard/166" id="29">
+    <title>Ss. Joachim &amp; Anne Adoration, Shakopee, MN</title>
+  </bookmark>
+</folder>
+<folder id="30">
+  <title>Privacy</title>
+  <bookmark href="https://app.simplelogin.io/auth/login?next=%2Fdashboard%2F%3F" id="31">
+    <title>SimpleLogin</title>
+  </bookmark>
+  <bookmark href="https://account.proton.me/mail" id="32">
+    <title>Proton Mail</title>
+  </bookmark>
+</folder>
+<bookmark href="http://164.152.30.63:2283/photos" id="33">
+  <title>Photos - Immich</title>
+</bookmark>
+<folder id="34">
+  <title>Training</title>
+  <bookmark href="https://registry.terraform.io/" id="35">
+    <title>Terraform Registry</title>
+  </bookmark>
+</folder>
+</xbel>
