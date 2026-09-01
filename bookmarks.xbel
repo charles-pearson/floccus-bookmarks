@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :38: for Floccus bookmark sync browser extension -->
+<!--- highestId :39: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Financial</title>
@@ -67,6 +67,9 @@
   </bookmark>
   <bookmark href="https://azure.github.io/Azure-Verified-Modules/indexes/bicep/" id="19">
     <title>Bicep Modules | AVM</title>
+  </bookmark>
+  <bookmark href="https://www.azurecitadel.com/policy/basics/portal/" id="39">
+    <title>Policy Basics in the Azure Portal • Azure Citadel</title>
   </bookmark>
 </folder>
 <folder id="20">
