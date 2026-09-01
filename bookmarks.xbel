@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :35: for Floccus bookmark sync browser extension -->
+<!--- highestId :38: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Financial</title>
@@ -30,10 +30,19 @@
     <title>Fidelity Trading Dashboard</title>
   </bookmark>
   <bookmark href="https://www.fidelity.com/" id="14">
-    <title>Fidelity Investments </title>
+    <title>Fidelity Investments</title>
   </bookmark>
   <bookmark href="https://login.acg.aaa.com/login.do" id="15">
     <title>AAA Insurance</title>
+  </bookmark>
+  <bookmark href="https://investor.vanguard.com/home" id="36">
+    <title>Vanguard: Helping you reach your investing goals | Vanguard</title>
+  </bookmark>
+  <bookmark href="https://www.pennymac.com/" id="37">
+    <title>PENNYMAC - National Home Mortgage Lender</title>
+  </bookmark>
+  <bookmark href="https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/#pricing" id="38">
+    <title></title>
   </bookmark>
 </folder>
 <bookmark href="http://192.168.1.1/ui" id="2">
