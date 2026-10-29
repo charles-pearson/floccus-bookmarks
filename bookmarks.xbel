@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :41: for Floccus bookmark sync browser extension -->
+<!--- highestId :42: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Financial</title>
@@ -43,6 +43,9 @@
   </bookmark>
   <bookmark href="https://login.acg.aaa.com/login.do" id="15">
     <title>AAA Insurance</title>
+  </bookmark>
+  <bookmark href="https://customercenter.auto-owners.com/cp/sign-in" id="42">
+    <title>Auto-Owners Insurance</title>
   </bookmark>
 </folder>
 <bookmark href="https://learn.microsoft.com/en-us/users/charlespearson-5822/" id="4">
